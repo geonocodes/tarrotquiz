@@ -1,2 +1,2 @@
-# tarrotquiz
-Tarrot Quiz Application For me
+# tarrot-quiz
+Tarrot Quiz For My Tarrot Study
