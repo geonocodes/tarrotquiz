@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tarrotquiz/static/css/main.523f09c5.chunk.css",
+    "main.js": "/tarrotquiz/static/js/main.6d57ef6b.chunk.js",
+    "main.js.map": "/tarrotquiz/static/js/main.6d57ef6b.chunk.js.map",
+    "runtime-main.js": "/tarrotquiz/static/js/runtime-main.97561400.js",
+    "runtime-main.js.map": "/tarrotquiz/static/js/runtime-main.97561400.js.map",
+    "static/css/2.2a86faee.chunk.css": "/tarrotquiz/static/css/2.2a86faee.chunk.css",
+    "static/js/2.bab2caa1.chunk.js": "/tarrotquiz/static/js/2.bab2caa1.chunk.js",
+    "static/js/2.bab2caa1.chunk.js.map": "/tarrotquiz/static/js/2.bab2caa1.chunk.js.map",
+    "index.html": "/tarrotquiz/index.html",
+    "precache-manifest.ff5d9554fab36e069fb677335dd13fa1.js": "/tarrotquiz/precache-manifest.ff5d9554fab36e069fb677335dd13fa1.js",
+    "service-worker.js": "/tarrotquiz/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/tarrotquiz/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/tarrotquiz/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.bab2caa1.chunk.js.LICENSE.txt": "/tarrotquiz/static/js/2.bab2caa1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tarrotquiz/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97561400.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.bab2caa1.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.6d57ef6b.chunk.js"
+  ]
+}
