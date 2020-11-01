@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tarrotquiz/precache-manifest.ff5d9554fab36e069fb677335dd13fa1.js"
+  "/tarrotquiz/precache-manifest.e9403e1302f3f0e6aebd47b466720680.js"
 );
 
 self.addEventListener('message', (event) => {
